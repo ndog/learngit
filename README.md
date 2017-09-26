@@ -7,4 +7,4 @@
 
 > quotation
 
-[Baidu](baidu.com)
+[Baidu](http://baidu.com)
