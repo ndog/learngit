@@ -25,3 +25,7 @@
 		return String.format(regionfmtStr, region);
 	}
 ```
+
+```
+<body class="easyui-layout" data-options="fit:true">
+```
