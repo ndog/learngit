@@ -8,4 +8,9 @@
 > quotation
 
 [Baidu](http://baidu.com)
+
 ![IMG](http://ww2.sinaimg.cn/large/6aee7dbbgw1efffa67voyj20ix0ctq3n.jpg)
+
+** bold **
+
+* italic *
