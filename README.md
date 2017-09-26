@@ -1,9 +1,14 @@
 # title1
 
-## list1
+## ul list
 * item1
-* item2
-* item3
+- item2
++ item3
+
+## ol list
+1. item1
+2. item2
+1. item3
 
 > quotation
 
@@ -12,5 +17,4 @@
 ![IMG](http://ww2.sinaimg.cn/large/6aee7dbbgw1efffa67voyj20ix0ctq3n.jpg)
 
 **Bold
-
 *italic
