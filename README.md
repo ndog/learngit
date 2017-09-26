@@ -13,6 +13,7 @@
 > quotation
 
 **table**
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -23,14 +24,14 @@
 
 ![IMG](http://ww2.sinaimg.cn/large/6aee7dbbgw1efffa67voyj20ix0ctq3n.jpg)
 
-*java code*
+> *java code*
 ```
 	public String regionPrefix(int region) {
 		return String.format(regionfmtStr, region);
 	}
 ```
 
-*html code*
+> *html code*
 ```
 <body class="easyui-layout" data-options="fit:true">
 ```
