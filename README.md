@@ -20,8 +20,8 @@
 
 *italic*
 
-`
+```
 	public String regionPrefix(int region) {
 		return String.format(regionfmtStr, region);
 	}
-`
+```
